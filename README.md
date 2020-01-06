@@ -35,10 +35,14 @@ git remote add [remote name] [remote url] is the syntax for the command needed t
 ### term2-branchs
  A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master . As you start making commits, you're given a master branch that points to the last commit you made. Every time you commit, the master branch pointer moves forward automatically.
 
+#### term3-Commit
+ A commit is a way to register a change made in branch. Every time you commit, the master branch pointer moves forward automatically.
+
  
 
 ## Term 3: Status
 Status displays the state of the working directory and staging area. It lets you see which changes have been staged.
 ## Term 4:MERGE
 This combines the various versions of a file or folder
+
 
