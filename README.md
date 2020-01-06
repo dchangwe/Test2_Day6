@@ -17,3 +17,9 @@ Removing a repository cannot be done on your local machine. To complete this tas
 
 ### Tip 4 - How To Add A Remote Repository
 git remote add [remote name] [remote url] is the syntax for the command needed to add a remote repository to your local one.
+
+## Term 3: Status
+Status displays the state of the working directory and staging area. It lets you see which changes have been staged.
+## Term 4:MERGE
+This combines the various versions of a file or folder
+
